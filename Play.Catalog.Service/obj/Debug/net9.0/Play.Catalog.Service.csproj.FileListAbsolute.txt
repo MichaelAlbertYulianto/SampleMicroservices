@@ -34,3 +34,10 @@ D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\
 D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\Play.Catalog.Service.sourcelink.json
+D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\DnsClient.dll
+D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\MongoDB.Bson.dll
+D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\MongoDB.Driver.dll
+D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\SharpCompress.dll
+D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Snappier.dll
+D:\DESAIN ARSITEKTUR MICROSERVICES\Project\SampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\ZstdSharp.dll
