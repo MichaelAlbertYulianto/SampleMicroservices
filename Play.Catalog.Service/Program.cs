@@ -1,8 +1,14 @@
+using Play.Catalog.Service.Entities;
+using MongoDB.Driver;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(
+    options => options.SuppressAsyncSuffixInActionNames = false
+);
+// builder.Services.AddMongo().AddMongoRepository<Item>("Items");
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddSwaggerGen();
